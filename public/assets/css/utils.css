@@ -1,0 +1,24 @@
+.imageselector{
+    color: #ffffff !important;
+    background: linear-gradient(to bottom, #58c970, #489b57) !important;
+    border: 0!important;
+    border-radius: 6px !important;
+
+    padding: 7px !important;
+    /* width: 110px !important; */
+    font-size: small;
+  }
+
+  .imageselectorborder{
+    border: solid 0.5px #dcd9d9 !important;
+    border-radius: 6px;
+  }
+
+  .fileselector{
+
+    color: #0e0e0e !important;
+    background: linear-gradient(to bottom, #f5f3f3, #b8b7b7) !important;    border: 0!important;
+    font-size: small;
+    padding: 7px !important;
+  }
+
